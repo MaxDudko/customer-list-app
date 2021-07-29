@@ -1,0 +1,19 @@
+{
+  "name": "customer-list-app",
+  "version": "1.0.0",
+  "description": "customer list management application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxDudko/customer-list-app.git"
+  },
+  "author": "Max Dudko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxDudko/customer-list-app/issues"
+  },
+  "homepage": "https://github.com/MaxDudko/customer-list-app#readme"
+}
