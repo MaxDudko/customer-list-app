@@ -1,5 +1,5 @@
 # :heavy_check_mark: Customer list app
-### customer list management application 
+### Customer list management application 
 ___
 #### TechStack:
 - FrontEnd:
@@ -9,3 +9,12 @@ ___
 - DataBase:
   - MongoDB
 
+___
+#### Features:
+- Authentication (In Progress)
+- Request validation  
+- Create group/invite to the group/list of the groups (Done)
+- Group realtime chat
+- View/create/edit/delete customers
+- Send email to customer
+---
